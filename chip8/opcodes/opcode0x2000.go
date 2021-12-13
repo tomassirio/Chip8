@@ -1,4 +1,4 @@
-//package opcodes
+package opcodes
 //
 //func getOpcode(byte byte) {
 //	c.stack[c.sp] = byte(c.pc)
